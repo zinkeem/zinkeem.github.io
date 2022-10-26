@@ -1,1 +1,1 @@
-# zinkeem.com
+zinkeem.github.io
